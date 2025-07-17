@@ -1,0 +1,12 @@
+SpeechRecognition==3.8.1
+pyttsx3==2.7
+wikipedia-api==0.5.4
+pyjokes==0.6.0
+requests==2.26.0
+feedparser==6.0.8
+twilio==6.62.0
+beautifulsoup4==4.10.0
+ecapture==0.1.1
+pyaudio==0.2.11
+winshell==0.6
+```
